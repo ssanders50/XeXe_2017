@@ -1,0 +1,6 @@
+pluginRecoHIHiEvtPlaneAlgos.so EvtPlaneFilter CMS%EDM%Framework%Module
+pluginRecoHIHiEvtPlaneAlgos.so EvtPlaneFilter CMS%EDM%Framework%ParameterSet%Description
+pluginRecoHIHiEvtPlaneAlgos.so EvtPlaneProducer CMS%EDM%Framework%Module
+pluginRecoHIHiEvtPlaneAlgos.so EvtPlaneProducer CMS%EDM%Framework%ParameterSet%Description
+pluginRecoHIHiEvtPlaneAlgos.so HiEvtPlaneFlatProducer CMS%EDM%Framework%Module
+pluginRecoHIHiEvtPlaneAlgos.so HiEvtPlaneFlatProducer CMS%EDM%Framework%ParameterSet%Description
