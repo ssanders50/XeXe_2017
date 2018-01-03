@@ -1,0 +1,1 @@
+testSerializationHIObjects CondFormats/HIObjects/testtestSerializationHIObjects.cpp
