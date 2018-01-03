@@ -1,4 +1,0 @@
-ALL_TOOLS      += jimmy_headers
-jimmy_headers_EX_INCLUDE := /opt/cmssw/slc6_amd64_gcc530/external/jimmy/4.2-mlhled2/include
-jimmy_headers_EX_USE := root_cxxdefaults
-

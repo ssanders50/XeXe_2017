@@ -1,5 +1,0 @@
-ALL_TOOLS      += sqlite
-sqlite_EX_INCLUDE := /opt/cmssw/slc6_amd64_gcc530/external/sqlite/3.15.1/include
-sqlite_EX_LIB := sqlite3
-sqlite_EX_USE := root_cxxdefaults
-

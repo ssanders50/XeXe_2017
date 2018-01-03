@@ -1,3 +1,0 @@
-<tool name="py2-hyperas" version="0.3-njopjo">
-  <use name="py2-pippkgs_depscipy"/>
-</tool>
